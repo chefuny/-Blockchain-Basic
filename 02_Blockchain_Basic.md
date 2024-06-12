@@ -253,4 +253,5 @@ EVM 是以太坊网络的核心组件，它提供了一个图灵完备的执行�
 安装一个 WEB3 钱包，创建账户后与 [openbuild.xyz](https://openbuild.xyz/profile) 进行绑定，截图后文件命名为 `./bind-wallet.jpg`.
 
 
-https://github.com/chefuny/-Blockchain-Basic/blob/cf42f0af3114eea8f86821fa97171b4fb1b94aa1/bind-wallet.jpg
+<!-- https://github.com/chefuny/-Blockchain-Basic/blob/cf42f0af3114eea8f86821fa97171b4fb1b94aa1/bind-wallet.jpg -->
+![alt czijian-bind-wallet](./bind-wallet.jpg)
